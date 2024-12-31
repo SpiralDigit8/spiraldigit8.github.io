@@ -1,2 +1,2 @@
-# spiraldigit.github.io
+# spiraldigit8.github.io
 SpiralDigit Home page
