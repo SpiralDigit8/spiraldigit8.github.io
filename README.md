@@ -1,2 +1,2 @@
 # spiraldigit.github.io
-SpiralDigit web page
+SpiralDigit Home page
